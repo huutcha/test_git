@@ -1,7 +1,9 @@
+Lệnh git:
+
 git init
 git status
 git add
 git commit -m "decs"
 git log
-git show
+git show 'mã gói hàng'
 git diff
