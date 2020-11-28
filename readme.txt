@@ -18,3 +18,6 @@ git branch -D 'branchname'	// xóa branch
 git reset --soft 'commit-id  trước'	// back về stage
 git reset --mixed 'commit-id trước'	// back về modified
 git reset --hard 'commit-id trước'	// xóa luôn
+
+git remote add origin 'link-repo'	// Kết nối folder với repo
+git remote -v 						// danh sách remote
