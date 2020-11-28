@@ -1,1 +1,11 @@
-nul 
+Các câu lệnh cơ bản cmd 
+
+cd 'filepath'
+cd D/ 'filepath'  		//chuyển ổ phải thêm
+dir 		
+echo nul > 'filename'	// tạo file mới
+md 'tên folder'			//tạo folder mới
+del 'filename'			//xóa file
+del 'foldername'		//xóa tất cả file trong folder
+shutdown -s -t [a] 		//tắt máy.
+shutdown -r -t [a] 		//khởi động máy
