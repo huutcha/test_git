@@ -1,7 +1,7 @@
 Các câu lệnh cơ bản cmd 
 
 cd 'filepath'
-cd D/ 'filepath'  		//chuyển ổ phải thêm
+cd /D 'filepath'  		//chuyển ổ phải thêm
 dir 		
 echo nul > 'filename'	// tạo file mới
 md 'tên folder'			//tạo folder mới
